@@ -38,7 +38,7 @@ The goal is to understand customer behavior, product performance, and revenue tr
 
 # Run Locally
 
-git clone https://github.com/your-username/project-name.git
+git clone -link-.git
 cd project-name
 
 pip install -r requirements.txt
